@@ -686,12 +686,10 @@
   "33139": {
     "name": "ApeChain",
     "rpc": "https://rpc.apechain.com",
-    "chainId": 33139  ,
+    "chainId": 33139,
     "explorer": "https://apescan.io/",
     "color": "#ff00e2",
     "multicall": "0x350186513FB2C148A50439311533656EF8096D9C",
-    "storage": "",
-    "exstorage": "",
     "baseCurrency": {
       "decimals": 18,
       "name": "APE",

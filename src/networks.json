@@ -689,7 +689,7 @@
     "chainId": 33139,
     "explorer": "https://apescan.io/",
     "color": "#ff00e2",
-    "multicall": "0x350186513FB2C148A50439311533656EF8096D9C",
+    "multicall": "0x08f713b41c5f7f52e2267f1f245e383fCeC37512",
     "baseCurrency": {
       "decimals": 18,
       "name": "APE",
